@@ -55,3 +55,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Images for test
+*.png
+*.jpg
+
+# OS files
+.DS_STORE
